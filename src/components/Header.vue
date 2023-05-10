@@ -80,7 +80,7 @@ export default {
 
 </template>
 
-<style>
+<style scoped>
 
 .site-header{
   height: 100vh;

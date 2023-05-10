@@ -1,0 +1,28 @@
+.moments-container{
+  height: 120vh;
+}
+
+.moments-title-container{
+  margin: 0 auto;
+  width: 30vw;
+  height: 20vh;
+  text-align: center;
+}
+
+.moments-title-container h6{
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 100;
+}
+
+.moments-title-container h1{
+  color: rgb(85, 50, 139);
+}
+
+.moments-image-container{
+  height: 90vh;
+}
+
+img{
+  height: 90vh;
+}
