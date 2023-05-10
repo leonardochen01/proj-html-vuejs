@@ -72,6 +72,29 @@ export default {
         <img src="../assets/images/perfect-macarons-1200x1530.jpg" alt="">
       </div>
 
+    </div> <!--product container end-->
+
+    <div class="tell-us-container">
+
+      <div class="d-flex justify-content-between">
+        <h1>
+          Tell us what you have in mind
+        </h1>
+        <h2>
+          01
+        </h2>
+      </div>
+
+      <div class="tell-us-text">
+        <h3>
+          manual ingredient selection
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum numquam fugit accusamus eum mollitia suscipit nisi incidunt ad! Aut, nihil sit quibusdam ad doloremque dolores esse provident porro perspiciatis unde excepturi veniam fuga repudiandae iusto vel, tempora alias laboriosam voluptatibus.
+        </p>
+      </div>
+
+      
     </div>
 
   </main>
@@ -83,5 +106,6 @@ export default {
 @import url(../css/main1.css);
 @import url(../css/main2.css);
 @import url(../css/main3.css);
+@import url(../css/main4.css);
 
 </style>

@@ -1,0 +1,42 @@
+.tell-us-container{
+  background-image: url(../assets/images/bakery-process-1.jpg);
+  width: 90vw;
+  height: 90vh;
+  margin: 5vh auto;
+}
+
+.tell-us-container div h1{
+  padding: 100px;
+  color: white;
+  font-size: 4rem;
+  font-weight: bolder;
+  max-width: 900px;
+}
+
+.tell-us-container div h2{
+  padding: 100px;
+  color: white;
+  font-size: 7rem;
+  max-width: 900px;
+  font-weight: 100;
+}
+
+.tell-us-text{
+  width: 30vw;
+  margin-left: 65%;
+  margin-top: 250px;
+}
+
+.tell-us-container div h3, p{
+  color: white;
+}
+
+.tell-us-container div h3{
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.tell-us-container div p{
+  font-size: 1.2rem;
+}
+
