@@ -23,6 +23,6 @@
   height: 90vh;
 }
 
-img{
-  height: 90vh;
+.moments-image-container img{
+  width: 43vw;
 }

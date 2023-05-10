@@ -1,0 +1,33 @@
+.product-container{
+  height: 80vh;
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.product-text{
+  width: 30%;
+  height: 50%;
+  text-align: center;
+}
+
+.product-image-container{
+  background-color: red;
+  height: 50%;
+}
+
+.product-image-container img{
+  height: 100%;
+}
+
+.product-text h1{
+  color: rgb(85, 50, 139);
+}
+
+.product-text button{
+  padding: 15px 25px;
+  border-radius: 7px;
+  border-style: none;
+  background-color: rgb(85, 50, 139);
+  color: white;
+  font-weight: bold;
+}

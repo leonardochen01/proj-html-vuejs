@@ -1,9 +1,7 @@
 <script>
-
-export default{
+export default {
   name: "Main",
 };
-
 </script>
 
 <template>
@@ -56,7 +54,25 @@ export default{
 
     </div> <!--moments container end-->
 
+    <div class="product-container d-flex justify-content-between align-items-center">
+      <div class="product-text d-flex flex-column gap-3 px-4 align-items-center justify-content-center">
+        <h1>
+          Find a freshly baked product perfect for you
+        </h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste ipsam cumque doloremque, perspiciatis error aut nemo harum sapiente voluptas fugiat!
+        </p>
+        <button>Shop All Products</button>
+      </div>
 
+      <div class="product-image-container d-flex">   <!--CAROUSEL-->
+        <img src="../assets/images/choco-chip-cookies-1200x1530.jpg" alt="">
+        <img src="../assets/images/strawberry-jam-cookies-1200x1530.jpg" alt="">
+        <img src="../assets/images/strawberry-donut-1200x1530.jpg" alt="">
+        <img src="../assets/images/perfect-macarons-1200x1530.jpg" alt="">
+      </div>
+
+    </div>
 
   </main>
 
@@ -66,5 +82,6 @@ export default{
 
 @import url(../css/main1.css);
 @import url(../css/main2.css);
+@import url(../css/main3.css);
 
 </style>
