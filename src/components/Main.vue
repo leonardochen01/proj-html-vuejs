@@ -94,7 +94,50 @@ export default {
         </p>
       </div>
 
-      
+    </div> <!--tell us container end-->
+
+    <div class="we-start-container d-flex">
+
+      <div class="we-start-image">
+
+        <div class="d-flex mb-5">
+          <h1>
+            We Start Baking
+          </h1>
+  
+          <h2>
+            02
+          </h2>
+        </div>
+
+        <div class="we-start-image-text">
+          <h3>
+            sweet & delicious
+          </h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. At, vero suscipit. Mollitia animi optio eos delectus pariatur dicta, consectetur, totam, doloribus tempore assumenda soluta provident rem debitis culpa repellendus velit?
+          </p>
+        </div>
+
+
+      </div>
+
+      <div class="we-start-text">
+
+        <div class="d-flex flex-column justify-content-between">
+          <h3 style="color:black">
+            dont just take our word for it
+          </h3>
+          <h5>
+            "Finally found an alternative to the mass produced products.Something that incorporates real organic ingredients, nutrient dense wellness while promoting sustainability and activity"
+          </h5>
+          <h6>
+            Rachel Cooper, Founder
+          </h6>
+        </div>
+
+      </div>
+
     </div>
 
   </main>

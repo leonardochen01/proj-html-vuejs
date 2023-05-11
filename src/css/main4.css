@@ -1,7 +1,9 @@
 .tell-us-container{
   background-image: url(../assets/images/bakery-process-1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
   width: 90vw;
-  height: 90vh;
+  height: 70vh;
   margin: 5vh auto;
 }
 
@@ -24,19 +26,71 @@
 .tell-us-text{
   width: 30vw;
   margin-left: 65%;
-  margin-top: 250px;
+  margin-top: 80px;
 }
 
-.tell-us-container div h3, p{
+p, h1, h2, h3, h4{
   color: white;
 }
 
-.tell-us-container div h3{
+h3{
   text-transform: uppercase;
   font-size: 0.8rem;
 }
 
-.tell-us-container div p{
+p{
   font-size: 1.2rem;
+}
+
+.we-start-container{
+  width: 90vw;
+  height: 70vh;
+  margin: 0 auto;
+}
+
+.we-start-image{
+  background-image: url(../assets/images/bakery-process-2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 45vw;
+  height: 100%;
+}
+
+.we-start-text{
+  width: 45vw;
+  height: 100%;
+}
+
+.we-start-image h1{
+  padding: 50px;
+  font-size: 4rem;
+}
+
+.we-start-image h2{
+  padding-top: 20px;
+  margin-left: 80px;
+  font-size: 7rem;
+  font-weight: 100;
+}
+
+.we-start-image-text{
+  width: 400px;
+  margin-left: 80px;
+  margin-top: 250px;
+}
+
+.we-start-text div{
+  width: 70%;
+  height: 70%;
+  margin: 100px auto;
+}
+
+.we-start-text h5{
+  color: rgb(85, 50, 139);
+  font-size: 2.75rem;
+}
+
+.we-start-text h6{
+  font-weight: 300;
 }
 
