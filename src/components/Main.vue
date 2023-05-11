@@ -138,7 +138,21 @@ export default {
 
       </div>
 
-    </div>
+    </div> <!--we start container end-->
+
+    <div class="delivered-container">
+
+      <div class="delivered-title d-flex justify-content-between">
+        <h1>Delivered to your home</h1>
+        <h2>03</h2>
+      </div>
+
+      <div class="delivered-text">
+        <h3>baked to order & gift wrapped</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolore et culpa! Laudantium perspiciatis, libero sit quaerat molestias mollitia inventore dignissimos ipsum velit numquam consectetur expedita minus dolorem vel error.</p>
+      </div>
+
+    </div> <!--delivered container end-->
 
   </main>
 

@@ -94,3 +94,35 @@ p{
   font-weight: 300;
 }
 
+.delivered-container{
+  background-image: url(../assets/images/bakery-process-3.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 90vw;
+  height: 70vh;
+  margin: 7vh auto;
+}
+
+.delivered-title{
+  width: 85%;
+  height: 20%;
+  margin: 0 auto;
+}
+
+.delivered-text{
+  width: 30%;
+  height: 30%;
+  margin-top: 15%;
+  margin-left: 120px;
+}
+
+.delivered-title h1{
+  font-size: 4rem;
+  padding-top: 50px;
+}
+
+.delivered-title h2{
+  font-size: 7rem;
+  font-weight: 100;
+  padding-top: 20px;
+}
