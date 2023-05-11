@@ -154,6 +154,85 @@ export default {
 
     </div> <!--delivered container end-->
 
+    <div class="location-container">
+
+      <div class="location-title">
+        <h6>locations</h6>
+        <h1>Visit our Bakeries</h1>
+      </div>
+
+
+      <div class="location-image-container d-flex">
+
+        <div class="image-container-1">
+          <img src="../assets/images/new-york-bk-1200x794.jpg" alt="New York Bakery">
+
+          <div class="newyork-container">
+            <div class="title">
+              <h1>
+                New York
+              </h1>
+            </div>
+            <div class="time-container d-flex">
+              <div>
+                <h6>call us</h6>
+                <h6>1.800.458.556</h6>
+              </div>
+              <div>
+                <h6>
+                  open all week
+                </h6>
+                <h6>
+                  9:00 am - 6:00 pm
+                </h6>
+              </div>
+              <div class="d-flex align-items-center justify-content-center">
+                <h5>
+                  View map
+                </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="image-container-2">
+          <img src="../assets/images/london-bk-1200x794.jpg" alt="">
+
+          <div class="london-container">
+            <div>
+              <h1>
+                London
+              </h1>
+            </div>
+            <div class="time-container d-flex">
+              <div>
+                <h6>call us</h6>
+                <h6>1.800.458.556</h6>
+              </div>
+              <div>
+                <h6>
+                  open all week
+                </h6>
+                <h6>
+                  9:00 am - 6:00 pm
+                </h6>
+              </div>
+              <div class="d-flex align-items-center justify-content-center">
+                <h5>
+                  View map
+                </h5>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+
+
+
+    </div> <!--location container end-->
+
   </main>
 
 </template>

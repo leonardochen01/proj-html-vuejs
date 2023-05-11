@@ -126,3 +126,93 @@ p{
   font-weight: 100;
   padding-top: 20px;
 }
+
+.location-container{
+  width: 90vw;
+  min-height: 50vh;
+  margin: 20vh auto;
+}
+
+.location-title{
+  width: 20%;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.location-title h6{
+  text-transform: uppercase;
+  color: rgb(85, 50, 139);
+  font-weight: 100;
+  font-size: 0.75rem;
+}
+
+.location-title h1{
+  color: rgb(85, 50, 139);
+}
+
+.location-image-container{
+  width: 100%;
+  min-height: 800px;
+}
+
+.image-container-1{
+  width: calc(100% / 2);
+  height: 500px;
+}
+
+.image-container-2{
+  width: calc(100% / 2);
+  height: 500px;
+}
+
+.location-image-container img{
+  width: 100%;
+}
+
+.newyork-container{
+  width: 100%;
+  height: 200px;
+}
+
+.london-container{
+  width: 100%;
+  height: 200px;
+}
+
+.newyork-container h1{
+  color: rgb(85, 50, 139);
+  text-align: center;
+  padding-top: 20px;
+}
+
+.london-container h1{
+  color: rgb(85, 50, 139);
+  text-align: center;
+  padding-top: 20px;
+}
+
+.time-container{
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.time-container div{
+  width: calc(100% / 3);
+  height: 50px;
+  margin-top: 20px;
+}
+
+.time-container h6{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.time-container h5{
+  color: rgb(85, 50, 139);
+  font-size: 0.8rem;
+  text-align: center;
+  cursor: pointer;
+}
